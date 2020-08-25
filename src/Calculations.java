@@ -14,6 +14,11 @@ public class Calculations {
 
         System.out.println("Sum : " + (number + anoNumber));
 
+        // Another way int sum = num + anoNum;
+        // System.out.print("Sum: " + sum);
+        // int product = num * anoNum;
+        // System.out.print("Product: " + product);
+
         System.out.println("Product : " + (number * anoNumber) + "\n");
 
         System.out.println("Enter a number you want to square: ");
